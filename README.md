@@ -37,14 +37,9 @@ Give examples
 #### Plugins
 * ProBuilder 4.2.3	
 * ProGrid 3.0.3(prev)
-* ML Agents 1.0.0(prev)
 * AR Foundation 2.1.8
 * ARKit XR Plugin 2.1.9(iOS)
 * ARCore XR Plugin 2.1.8(Android) - min API - Android 7.0 'Nougat' (API level 24) 
-* Animation Rigging 0.2.6(prev)
-* 2D Animation 3.1.1
-* 2D PSD Importer 2.1.4
-* 2D Sprite 1.0.0
 
 ### Installing(TBD)
 
