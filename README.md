@@ -41,6 +41,9 @@ Give examples
 * ARKit XR Plugin 2.1.9(iOS)
 * ARCore XR Plugin 2.1.8(Android) - min API - Android 7.0 'Nougat' (API level 24) 
 
+#### Asset Store Plugins
+* REST Client for Unity 2.6.0
+
 ### Installing(TBD)
 
 A step by step series of examples that tell you how to get a development env running
