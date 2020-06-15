@@ -1,6 +1,9 @@
 # Created by https://www.gitignore.io/api/linux,unity,macos,windows
 # Edit at https://www.gitignore.io/?templates=linux,unity,macos,windows
 
+### Art Assets ###
+.blend1
+
 ### Linux ###
 *~
 

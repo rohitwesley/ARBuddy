@@ -9,17 +9,18 @@ public class PlaceMultipleObjectsOnPlane : MonoBehaviour
 {
     [Tooltip("Instantiates this prefab on a plane at the touch location.")]
     [SerializeField] private GameObject m_PlacedPrefab;
+    [SerializeField] private float scaleAR;
     
     bool isSinglePlaced = false;
 
-    /// <summary>
-    /// The prefab to instantiate on touch.
-    /// </summary>
-    public GameObject placedPrefab
-    {
-        get { return m_PlacedPrefab; }
-        set { m_PlacedPrefab = value; }
-    }
+    // /// <summary>
+    // /// The prefab to instantiate on touch.
+    // /// </summary>
+    // public GameObject placedPrefab
+    // {
+    //     get { return m_PlacedPrefab; }
+    //     set { m_PlacedPrefab = value; }
+    // }
 
     /// <summary>
     /// The object instantiated as a result of a successful raycast intersection with a plane.
